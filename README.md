@@ -1,6 +1,6 @@
 # Podcast Website with Next.js & Sanity
 
-![Project Screenshot](./public/screenshot.png) <!-- Add actual screenshot path -->
+![Project Screenshot](./public/screenshot.png) 
 
 A modern podcast website built with Next.js 13, TypeScript, and Sanity CMS. This project features a responsive design, seamless content management, and optimized audio playback experience.
 
