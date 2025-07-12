@@ -6,7 +6,7 @@ A modern podcast website built with Next.js 13, TypeScript, and Sanity CMS. This
 
 ## 📱 Live Demo
 
-[Check out Live Demo](https://podcast-web-app-woad.vercel.app/)
+[Check out the Live Demo](https://podcast-web-app-woad.vercel.app/)
 
 ## Features
 
