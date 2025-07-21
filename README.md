@@ -39,3 +39,6 @@ A modern podcast website built with Next.js 13, TypeScript, and Sanity CMS. This
    ```bash
    git clone https://github.com/your-username/podcast-website.git
    cd podcast-website
+
+
+**Made with ❤️ by Ashik**
