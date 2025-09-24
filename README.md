@@ -13,7 +13,7 @@ A modern podcast website built with Next.js 13, TypeScript, and Sanity CMS. This
 - **Content Management**: Easily manage podcast episodes, show notes, and metadata through Sanity Studio
 - **Responsive Design**: Fully responsive layout that works on all devices
 - **Type Safety**: Built with TypeScript for better developer experience
-- **Next.js 13**: Utilizes the latest Next.js features including App Router
+- **Next.js 15**: Utilizes the latest Next.js features including App Router
 - **Audio Player**: Custom audio player with playback controls
 - **SEO Optimized**: Proper metadata and structured data for podcast episodes
 - **Performance**: Optimized for fast loading and smooth playback
