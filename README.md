@@ -25,7 +25,7 @@ A modern podcast website built with Next.js 13, TypeScript, and Sanity CMS. This
 - [Sanity CMS](https://www.sanity.io/) - Content management
 - [React Icons](https://react-icons.github.io/react-icons/) - Icons
 
-## Getting Started
+## To get Started with the project
 
 ### Prerequisites
 
